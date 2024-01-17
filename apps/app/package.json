@@ -1,0 +1,16 @@
+{
+  "name": "@vitest-shared-packages-mock-issue/app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@vitest-shared-packages-mock-issue/shared": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitest-shared-packages-mock-issue/test-utils": "^1.0.0",
+    "vitest": "1.1.3"
+  },
+  "scripts": {
+    "test": "vitest"
+  }
+}
